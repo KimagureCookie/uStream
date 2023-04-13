@@ -5,6 +5,6 @@ I guess these are enough excuses for making my own hot air station. Since I can'
 
 I will try to add everything I have cooked so far in the coming days.
 
-![Example Image](https://drive.google.com/file/d/1yP7CWa4hE-BNSYNENehct0TYTg40V4K6/view?usp=share_link)
+![micro_stream](https://drive.google.com/file/d/1yP7CWa4hE-BNSYNENehct0TYTg40V4K6/view?usp=share_link)
 
 
