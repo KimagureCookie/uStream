@@ -5,6 +5,6 @@ I guess these are enough excuses for making my own hot air station. Since I can'
 
 I will try to add everything I have cooked so far in the coming days.
 
-![micro_stream](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Homepage_of_Wikipedia.png/330px-Homepage_of_Wikipedia.png)
+![micro_stream](https://github.com/KimagureCookie/-Stream/blob/main/board_2.png?raw=true)
 
 
