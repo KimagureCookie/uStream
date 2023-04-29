@@ -1,4 +1,4 @@
-### WIP (I'm working on the software side of things right now! The hardware is not tested currently but will update soon)
+### WIP (I'm working on the software side of things right now! The hardware is not tested, I will update soon)
 
 A few weeks ago, I wanted to buy a hot air station for some smd rework. While I was searchig for one, I came across a lot of chinese hot air stations which seem to be dirt cheap and also resonably reliable. Howerver the problem is that, these seem to be outdated design and somewhat lack in saftey!
 On the other hand the offerings from top players like JBC and Wellers seems to be out of reach for any hobbyist.
